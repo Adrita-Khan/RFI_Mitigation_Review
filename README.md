@@ -16,7 +16,7 @@ Radio Frequency Interference (RFI) poses significant challenges to radio astrono
 
 ## Table of Contents
 
-<img src="https://images.theconversation.com/files/513004/original/file-20230301-22-mo36il.png?ixlib=rb-4.1.0&q=45&auto=format&w=754&h=286&fit=crop&dpr=1" alt="Image from The Conversation" width="900" height="286">
+<img src="https://images.theconversation.com/files/513004/original/file-20230301-22-mo36il.png?ixlib=rb-4.1.0&q=45&auto=format&w=754&h=286&fit=crop&dpr=1" alt="Image from The Conversation" width="950" height="286">
 
 
 - [Introduction](#introduction)
@@ -129,6 +129,8 @@ Future research directions include the development of more robust and scalable M
 - [NRAO Telescopes - Radio Frequency Interference](https://public.nrao.edu/telescopes/radio-frequency-interference/)
 - [Radio Interference from Satellites is Threatening Astronomy](https://www.astronomy.com/science/radio-interference-from-satellites-is-threatening-astronomy)
 - [SpaceNews - Radio Noise from Satellite Constellations Could Interfere with Astronomers](https://spacenews.com/radio-noise-from-satellite-constellations-could-interfere-with-astronomers/)
+- [Radio Interference from Satellites is Threatening Astronomy - Proposed Zone for Testing New Technologies](https://theconversation.com/radio-interference-from-satellites-is-threatening-astronomy-a-proposed-zone-for-testing-new-technologies-could-head-off-the-problem-199353)
+
 
 
 
