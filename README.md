@@ -16,7 +16,7 @@ Radio Frequency Interference (RFI) poses significant challenges to radio astrono
 
 ## Table of Contents
 
-<img src="https://images.theconversation.com/files/513004/original/file-20230301-22-mo36il.png?ixlib=rb-4.1.0&q=45&auto=format&w=754&h=286&fit=crop&dpr=1" alt="Image from The Conversation" width="754" height="286">
+<img src="https://images.theconversation.com/files/513004/original/file-20230301-22-mo36il.png?ixlib=rb-4.1.0&q=45&auto=format&w=754&h=286&fit=crop&dpr=1" alt="Image from The Conversation" width="900" height="286">
 
 
 - [Introduction](#introduction)
