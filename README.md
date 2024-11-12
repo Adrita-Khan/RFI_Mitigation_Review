@@ -38,7 +38,7 @@ Radio Frequency Interference (RFI) poses significant challenges to radio astrono
 - [License](#license)
 - [Contact](#contact)
 
-<img src="https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp" alt="PF800 Waterfall" width="600">
+<img src="https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp" alt="PF800 Waterfall" width="700">
 
 
 
