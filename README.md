@@ -59,6 +59,10 @@ Radio astronomy involves the study of celestial objects through their radio freq
 
 RFI originates from various terrestrial and extraterrestrial sources, including satellites, mobile phones, broadcasting stations, and even natural sources like lightning. The impact of RFI on radio astronomical observations includes data corruption, increased noise levels, and false detections, all of which compromise the integrity of scientific results.
 
+
+<img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1" alt="RFI Radio Astronomy" width="800">
+
+
 ## Literature Review
 
 ### Traditional Mitigation Techniques
@@ -121,6 +125,8 @@ Future research directions include the development of more robust and scalable M
 - [NRAO - Radio Frequency Interference Overview](https://legacy.nrao.edu/epo/aoc/puente/rfi/#:~:text=However%2C%20transmitters%20using%20frequencies%20near,frequencies%20outside%20its%20intended%20range)
 - [NRAO Telescopes - Radio Frequency Interference](https://public.nrao.edu/telescopes/radio-frequency-interference/)
 - [Radio Interference from Satellites is Threatening Astronomy](https://www.astronomy.com/science/radio-interference-from-satellites-is-threatening-astronomy)
+- [SpaceNews - Radio Noise from Satellite Constellations Could Interfere with Astronomers](https://spacenews.com/radio-noise-from-satellite-constellations-could-interfere-with-astronomers/)
+
 
 
 
