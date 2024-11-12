@@ -106,6 +106,13 @@ This review underscores the transformative potential of ML and AI in enhancing R
 
 Future research directions include the development of more robust and scalable ML models, the creation of comprehensive labeled datasets for training, and the exploration of real-time RFI mitigation techniques. Additionally, interdisciplinary collaborations could further enhance the effectiveness of RFI mitigation strategies.
 
+## References
+
+- [Interference from a Busy Planet - NRAO Public Blogs](https://public.nrao.edu/blogs/interference-from-a-busy-planet/)
+
+
+
+
 ## Installation
 
 To set up the environment for reproducing the analyses and experiments conducted in this review, follow the instructions below.
