@@ -4,7 +4,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/your-username/rfi-mitigation-radio-astronomy-ml-ai/CI)
 
-<img src="https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg" alt="RFI Title Graphic" width="950" />
+<img src="https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg" alt="RFI Title Graphic" width="900" />
 
 
 ## Abstract
