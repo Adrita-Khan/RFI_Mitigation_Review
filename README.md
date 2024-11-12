@@ -60,7 +60,7 @@ Radio astronomy involves the study of celestial objects through their radio freq
 RFI originates from various terrestrial and extraterrestrial sources, including satellites, mobile phones, broadcasting stations, and even natural sources like lightning. The impact of RFI on radio astronomical observations includes data corruption, increased noise levels, and false detections, all of which compromise the integrity of scientific results.
 
 
-<img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1" alt="RFI Radio Astronomy" width="800">
+<img src="https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1" alt="RFI Radio Astronomy" width="900">
 
 
 ## Literature Review
