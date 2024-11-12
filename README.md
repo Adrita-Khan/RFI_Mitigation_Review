@@ -120,6 +120,8 @@ Future research directions include the development of more robust and scalable M
 - [AAS COMPASSE - Radio Frequency Interference](https://compasse.aas.org/issues/radio-frequency-interference/)
 - [NRAO - Radio Frequency Interference Overview](https://legacy.nrao.edu/epo/aoc/puente/rfi/#:~:text=However%2C%20transmitters%20using%20frequencies%20near,frequencies%20outside%20its%20intended%20range)
 - [NRAO Telescopes - Radio Frequency Interference](https://public.nrao.edu/telescopes/radio-frequency-interference/)
+- [Radio Interference from Satellites is Threatening Astronomy](https://www.astronomy.com/science/radio-interference-from-satellites-is-threatening-astronomy)
+
 
 
 
