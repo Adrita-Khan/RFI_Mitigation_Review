@@ -38,6 +38,10 @@ Radio Frequency Interference (RFI) poses significant challenges to radio astrono
 - [License](#license)
 - [Contact](#contact)
 
+<img src="https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp" alt="PF800 Waterfall" width="600">
+
+
+
 ## Introduction
 
 Radio Frequency Interference (RFI) is an unwanted signal that disrupts the data collection processes of radio telescopes. As radio astronomy advances, the proliferation of electronic devices and communication systems exacerbates the RFI problem, necessitating more sophisticated mitigation techniques. This review explores the integration of Machine Learning (ML) and Artificial Intelligence (AI) in developing effective RFI mitigation strategies, assessing their performance against traditional methods.
