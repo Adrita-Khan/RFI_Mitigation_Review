@@ -114,6 +114,7 @@ Future research directions include the development of more robust and scalable M
 
 - [Interference from a Busy Planet - NRAO Public Blogs](https://public.nrao.edu/blogs/interference-from-a-busy-planet/)
 - [NRAO Spectrum Management - RFI Monitoring and Mitigation](https://info.nrao.edu/do/spectrum-management/rfi-monitoring-and-mitigation)
+- <li><a href="https://compasse.aas.org/issues/radio-frequency-interference/" target="_blank">AAS Compasse - Radio Frequency Interference Issues</a></li>
 
 
 
