@@ -105,7 +105,7 @@ The integration of ML and AI into RFI mitigation offers promising advances for r
 
 ## Extended Outline
 
-The extended outline is available [here](extended_outline.txt).
+The extended outline is available [here](extended_outline.md).
 
 ## Installation
 
