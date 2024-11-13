@@ -179,10 +179,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact:
+**For any inquiries or feedback, please contact:**
 
 Name: Adrita Khan  
-Email: [adrita.khan.official@gmail.com](mailto:adrita.khan.official@gmail.com)  
+Email (mailto:adrita.khan.official@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/adrita-khan)  
 [Twitter](https://x.com/Adrita_)
 
