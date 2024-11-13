@@ -179,6 +179,26 @@ jupyter notebook notebooks/RFI_Mitigation_Analysis.ipynb
 - **Research Paper List/**: A collection of related research papers.
 - **Tables/**: Data tables used in the analysis.
 
+## Project Structure
+
+├── assets/
+│   ├── images/          # Images, logos, and other visual resources
+│   └── diagrams/        # Project-related diagrams illustrating concepts and processes
+├── data/                # Datasets used in the project
+├── notebooks/           # Jupyter notebooks for analysis and experimentation
+├── scripts/             # Scripts for data preprocessing, model training, and utilities
+├── reports/
+│   ├── analysis/        # In-depth analysis reports and visualizations
+│   ├── appendices/      # Supporting documents and detailed data or methods
+│   │   ├── Appendix_A/
+│   │   ├── Appendix_B/
+│   │   └── Appendix_C/
+│   └── references/      # Reference documents and sources cited in the project
+├── preprints/           # Preprint versions of research papers
+├── presentations/       # Presentation slides for project communication
+├── research_papers/     # Collection of related research papers
+├── tables/              # Data tables used in the analysis
+└── journals_conferences/ # List of journals and conferences related to the research
 
 
 ## License
