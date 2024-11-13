@@ -34,6 +34,7 @@ Radio Frequency Interference (RFI) significantly hampers radio astronomy by cont
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Extended Outline](#extended-outline)
 
 ![PF800 Waterfall](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
 
@@ -156,6 +157,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Extended Outline
 
+The extended outline is available [here](extended_outline.txt).
+
 1. **Introduction**
    - Overview of Radio Astronomy and RFI
    - The Growing Challenge of RFI
@@ -164,10 +167,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 2. **Background**
    - Radio Frequency Interference in Radio Astronomy
-   	- Sources of RFI
-   	- Radiation Properties of RFI Sources
-   	- Impact of RFI on Observations
-   	- Separating the Signal from the Noise
+    - Sources of RFI
+    - Radiation Properties of RFI Sources
+    - Impact of RFI on Observations
+    - Separating the Signal from the Noise
 
 3. **Survey Methodology**
    - Data Sources and Retrieval Methods
@@ -206,18 +209,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 9. **Opportunities, Challenges, and Future Directions**
    - Limitations and Challenges in AI/ML-Based RFI Mitigation
-   	- Data Availability and Quality
-   	- Model Generalization
+    - Data Availability and Quality
+    - Model Generalization
    - Future Research Directions
-   	- Collaborative Efforts and Shared Datasets
-   	- Hybrid Approaches
-   	- Real-Time RFI Mitigation
+    - Collaborative Efforts and Shared Datasets
+    - Hybrid Approaches
+    - Real-Time RFI Mitigation
 
 10. **The Critical Need for Radio Quiet Zones**
    - Introduction to Radio Quiet Zones (RQZs)
    - Threats to Radio Quiet Zones
-   	- Increasing RFI
-   	- Encroachment and Development Pressures
+    - Increasing RFI
+    - Encroachment and Development Pressures
    - Regulatory Framework and Enforcement Challenges
    - Advocacy and Future Directions for RQZs
 
