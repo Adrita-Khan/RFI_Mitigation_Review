@@ -68,6 +68,6 @@ This glossary is part of the review titled **"Review on Mitigating Radio Frequen
 
 ---
 
-This glossary should serve as a valuable resource for readers of your review, providing clear definitions and context for key terms in radio astronomy and the application of AI/ML techniques for RFI mitigation.
+This glossary should serve as a valuable resource for readers of our review, providing clear definitions and context for key terms in radio astronomy and the application of AI/ML techniques for RFI mitigation.
 
 
