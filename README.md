@@ -174,8 +174,6 @@ jupyter notebook notebooks/RFI_Mitigation_Analysis.ipynb
 - **tables/**: Data tables used in the analysis.
 - **journals_conferences/**: List of journals and conferences related to the research.
 
-
-## Project Structure
 ```bash
 ├── assets/
 │   ├── images/          # Images, logos, and other visual resources
