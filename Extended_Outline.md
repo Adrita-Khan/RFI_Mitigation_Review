@@ -41,6 +41,4 @@ The conclusion highlights that RFI mitigation in radio astronomy through machine
 
 ## 13. References
 
----
 
-This structured outline provides a comprehensive overview of key sections, allowing readers to grasp the context and methodologies effectively. Feel free to modify or expand on any section as needed.
