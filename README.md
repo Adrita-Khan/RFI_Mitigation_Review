@@ -124,6 +124,12 @@ The integration of ML and AI into RFI mitigation offers promising advances for r
 
 Further research aims at developing more robust ML models, real-time mitigation techniques, and interdisciplinary collaborations for effective RFI management. Expanding open-access datasets and creating standardized benchmarks are also priorities.
 
+## Extended Outline
+
+The extended outline is available [here](extended_outline.md).
+
+
+
 ## Installation
 
 ### Prerequisites
@@ -195,6 +201,19 @@ jupyter notebook notebooks/RFI_Mitigation_Analysis.ipynb
 └── journals_conferences/ # List of journals and conferences related to the research
 ```
 
+## References
+
+- [Interference from a Busy Planet - NRAO Public Blogs](https://public.nrao.edu/blogs/interference-from-a-busy-planet/)
+- [NRAO Spectrum Management - RFI Monitoring and Mitigation](https://info.nrao.edu/do/spectrum-management/rfi-monitoring-and-mitigation)
+- [AAS COMPASSE - Radio Frequency Interference](https://compasse.aas.org/issues/radio-frequency-interference/)
+- [NRAO - Radio Frequency Interference Overview](https://legacy.nrao.edu/epo/aoc/puente/rfi/#:~:text=However%2C%20transmitters%20using%20frequencies%20near,frequencies%20outside%20its%20intended%20range)
+- [NRAO Telescopes - Radio Frequency Interference](https://public.nrao.edu/telescopes/radio-frequency-interference/)
+- [Radio Interference from Satellites is Threatening Astronomy](https://www.astronomy.com/science/radio-interference-from-satellites-is-threatening-astronomy)
+- [SpaceNews - Radio Noise from Satellite Constellations Could Interfere with Astronomers](https://spacenews.com/radio-noise-from-satellite-constellations-could-interfere-with-astronomers/)
+- [Radio Interference from Satellites is Threatening Astronomy - Proposed Zone for Testing New Technologies](https://theconversation.com/radio-interference-from-satellites-is-threatening-astronomy-a-proposed-zone-for-testing-new-technologies-could-head-off-the-problem-199353)
+
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -207,6 +226,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Adrita Khan**  
 [Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
 
-## Extended Outline
 
-The extended outline is available [here](extended_outline.md).
