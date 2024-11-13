@@ -1,76 +1,78 @@
-## Extended Outline
+## Extended Outline for Radio Astronomy RFI Mitigation
 
 1. **Introduction**
-   - Overview of Radio Astronomy and RFI
-   - The Growing Challenge of RFI
-   - The Role of AI and Machine Learning
-   - Major Challenges in Radio Astronomy
+   - Overview of Radio Astronomy and Radio Frequency Interference (RFI)
+   - Increasing Challenges Posed by RFI in Modern Observations
+   - Role of Artificial Intelligence (AI) and Machine Learning (ML) in Addressing RFI
+   - Major Challenges Impacting Radio Astronomy Today
 
 2. **Background**
-   - Radio Frequency Interference in Radio Astronomy
-    - Sources of RFI
-    - Radiation Properties of RFI Sources
-    - Impact of RFI on Observations
-    - Separating the Signal from the Noise
+   - Understanding RFI in Radio Astronomy
+     - Common Sources of RFI
+     - Characteristics and Radiation Properties of RFI Sources
+     - Impact of RFI on Astronomical Observations
+     - Techniques for Distinguishing Signal from Noise
 
 3. **Survey Methodology**
-   - Data Sources and Retrieval Methods
-   - Inclusion and Exclusion Criteria
-   - Prompt Engineering
-   - Overview of Surveyed Papers
+   - Data Sources and Retrieval Techniques for the Survey
+   - Inclusion and Exclusion Criteria for Selected Studies
+   - Role of Prompt Engineering in Information Extraction
+   - Overview of Surveyed Research Papers
 
-4. **RFI for Different Telescopes and Observatories**
-   - RFI Measurements
+4. **RFI Impact Across Telescopes and Observatories**
+   - Measurement and Analysis of RFI Across Different Sites
 
 5. **RFI Mitigation Methods**
-   - Linear Methods
-   - Threshold-Based Algorithms
-   - Traditional Supervised Machine Learning Techniques
+   - Linear Techniques for RFI Mitigation
+   - Threshold-Based Algorithms for Noise Reduction
+   - Traditional Supervised Machine Learning Techniques for RFI Removal
 
-6. **Non-AI Methods**
-   - Manual Detection and Removal
-   - Filtering Techniques (Frequency-based, Time-domain, Polarization-based, Statistical)
-   - Limitations and Challenges of Non-AI Methods
+6. **Non-AI Mitigation Methods**
+   - Manual Detection and Removal Techniques
+   - Filtering Approaches (Frequency-Based, Time-Domain, Polarization-Based, Statistical Methods)
+   - Challenges and Limitations of Non-AI Methods
 
-7. **AI-based Methods**
-   - Introduction to AI-based Methods
-   - Model-centric Approaches
+7. **AI-Based Mitigation Methods**
+   - Overview of AI-Based Methods for RFI Mitigation
+   - Model-Centric Approaches and Their Application
    - Machine Learning Techniques (Supervised, Unsupervised, Semi-Supervised)
-   - Advanced Techniques (Deep Learning, Reinforcement Learning)
-   - Data-centric Approaches (Data Augmentation, Feature Engineering)
-   - Weak Supervision Approaches
+   - Advanced Methods (Deep Learning, Reinforcement Learning)
+   - Data-Centric Techniques (Data Augmentation, Feature Engineering)
+   - Weak Supervision and Its Benefits
 
 8. **Comparative Analysis**
-   - Traditional RFI Mitigation Techniques vs. AI/ML Approaches
-   - Performance Metrics
-   - Scalability and Adaptability
-   - Computational Requirements
-   - Case Studies and Real-World Applications
-   - Cost-Benefit Analysis
+   - Comparison of Traditional and AI/ML-Based RFI Mitigation Techniques
+   - Performance Metrics and Effectiveness of Methods
+   - Scalability, Adaptability, and Computational Efficiency
+   - Real-World Case Studies and Applications
+   - Cost-Benefit Analysis of Mitigation Approaches
 
-9. **Opportunities, Challenges, and Future Directions**
-   - Limitations and Challenges in AI/ML-Based RFI Mitigation
-    - Data Availability and Quality
-    - Model Generalization
-   - Future Research Directions
-    - Collaborative Efforts and Shared Datasets
-    - Hybrid Approaches
-    - Real-Time RFI Mitigation
+9. **Challenges, Opportunities, and Future Directions**
+   - Key Challenges in AI/ML-Based RFI Mitigation
+     - Issues Related to Data Availability and Quality
+     - Challenges in Model Generalization Across Different Scenarios
+   - Future Research Opportunities
+     - Collaborative Efforts and Shared Datasets for Better Results
+     - Development of Hybrid Approaches for Enhanced Performance
+     - Real-Time RFI Mitigation Strategies
 
 10. **The Critical Need for Radio Quiet Zones**
-   - Introduction to Radio Quiet Zones (RQZs)
-   - Threats to Radio Quiet Zones
-    - Increasing RFI
-    - Encroachment and Development Pressures
-   - Regulatory Framework and Enforcement Challenges
-   - Advocacy and Future Directions for RQZs
+   - Introduction to Radio Quiet Zones (RQZs) and Their Importance
+   - Growing Threats to Radio Quiet Zones
+     - Increasing Incidence of RFI
+     - Encroachment and Development Pressures Threatening RQZs
+   - Regulatory Framework, Enforcement Challenges, and Advocacy
+   - Strategies for Strengthening RQZ Protections
 
 11. **Conclusions**
+   - Summary of Key Findings and Implications for Future Radio Astronomy Research
 
 12. **Appendices**
-   - Acronyms & Abbreviations
-   - Glossary of Radio Astronomy and AI/ML Terms
-   - List of Mostly Used Prompts
-   - Software and Tools for RFI Mitigation
+   - Acronyms & Abbreviations Used in the Study
+   - Glossary of Key Terms in Radio Astronomy and AI/ML
+   - Compilation of Commonly Used Prompts in the Survey
+   - Overview of Software and Tools Used for RFI Mitigation
 
 13. **References**
+   - Complete List of Referenced Papers and Sources
+
