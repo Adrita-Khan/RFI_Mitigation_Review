@@ -166,6 +166,18 @@ jupyter notebook notebooks/RFI_Mitigation_Analysis.ipynb
 - **data/**: Placeholder for datasets used in the project.
 - **scripts/**: Scripts for data preprocessing and model training.
 - **reports/**: Generated analysis reports and visualizations.
+- **.git/**: Git version control directory.
+- **Analysis Reports/**: Contains in-depth analysis reports.
+- **Appendix A, B, C/**: Supporting documents and detailed data or methods.
+- **Assets/**: Images, logos, and other visual resources used in the project.
+- **Diagrams/**: Project-related diagrams to illustrate concepts and processes.
+- **Journal and Conference List/**: List of journals and conferences related to the research.
+- **Notebooks/**: Contains Jupyter notebooks for various stages of the project.
+- **Preprint/**: Preprint versions of research papers.
+- **Presentation/**: Presentation slides for project communication.
+- **References/**: Reference documents and sources cited in the project.
+- **Research Paper List/**: A collection of related research papers.
+- **Tables/**: Data tables used in the analysis.
 
 
 
