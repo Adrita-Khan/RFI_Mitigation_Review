@@ -24,11 +24,6 @@ Radio Frequency Interference (RFI) significantly hampers radio astronomy by cont
   - [Literature Search and Selection](#literature-search-and-selection)
   - [Inclusion and Exclusion Criteria](#inclusion-and-exclusion-criteria)
   - [Data Extraction and Analysis](#data-extraction-and-analysis)
-- [Methodologies](#methodologies)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Feature Engineering](#feature-engineering)
-  - [Model Training](#model-training)
-  - [Evaluation Metrics](#evaluation-metrics)
 - [Results](#results)
   - [Performance Analysis](#performance-analysis)
   - [Case Studies](#case-studies)
@@ -85,27 +80,6 @@ Traditional versus ML/AI-based methods are compared for effectiveness, scalabili
 - **Inclusion**: Focus on ML/AI for RFI, peer-reviewed, and published from 2014 to 2024.
 - **Exclusion**: Irrelevant topics, low-quality publications, and duplicates.
 
-### Data Extraction and Analysis
-
-Extracted information such as study objectives, methodologies, and results was organized by ML techniques, RFI types, and telescope use.
-
-## Methodologies
-
-### Data Preprocessing
-
-Data preprocessing involves noise reduction, normalization, and segmentation, ensuring clean data for ML models.
-
-### Feature Engineering
-
-Feature engineering extracts characteristics from data to facilitate accurate RFI detection. Methods like time-frequency analysis are used to enhance model inputs.
-
-### Model Training
-
-Models such as SVM, Random Forests, CNNs, and RNNs are trained with optimized hyperparameters. Training procedures and validation techniques are explained.
-
-### Evaluation Metrics
-
-Evaluation metrics include accuracy, precision, recall, F1-score, and AUC-ROC to assess model performance.
 
 ![RFI Radio Astronomy](https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1)
 
