@@ -2,8 +2,6 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)  
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Adrita-Khan/RFI_Mitigation_Review/rfi_mitigation_review.yml)
-
 
 ![RFI Title Graphic](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
 
@@ -28,12 +26,21 @@ Radio Frequency Interference (RFI) significantly hampers radio astronomy by cont
   - [Performance Analysis](#performance-analysis)
   - [Case Studies](#case-studies)
 - [Discussion](#discussion)
+  - [Challenges and Limitations](#challenges-and-limitations)
+  - [Hybrid Approaches](#hybrid-approaches)
+  - [Scalability and Real-Time Processing](#scalability-and-real-time-processing)
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Clone the Repository](#clone-the-repository)
+  - [Create a Virtual Environment](#create-a-virtual-environment)
+  - [Install Dependencies](#install-dependencies)
 - [Usage](#usage)
+- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 - [Extended Outline](#extended-outline)
 
@@ -79,13 +86,17 @@ Traditional versus ML/AI-based methods are compared for effectiveness, scalabili
 - **Inclusion**: Focus on ML/AI for RFI, peer-reviewed, and published from 2014 to 2024.
 - **Exclusion**: Irrelevant topics, low-quality publications, and duplicates.
 
+### Data Extraction and Analysis
+
+Data were extracted from selected papers and categorized by techniques, algorithms, evaluation metrics, and datasets. The analysis helped in comparing the effectiveness of different RFI mitigation strategies.
+
 ![RFI Radio Astronomy](https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1)
 
 ## Results
 
 ### Performance Analysis
 
-The analysis compares ML/AI-based methods to traditional ones, showing significant improvement in detection rates and reduced false positives.
+The analysis compares ML/AI-based methods to traditional ones, showing significant improvement in detection rates and reduced false positives. Performance metrics like accuracy, recall, precision, and F1 score were used.
 
 ### Case Studies
 
@@ -93,24 +104,27 @@ Real-world applications of ML/AI for RFI mitigation in radio astronomy projects 
 
 ## Discussion
 
-Challenges like data scarcity, computational demands, and interpretability are discussed. Hybrid approaches that combine traditional and ML/AI techniques are also considered.
+### Challenges and Limitations
 
-## Future Work
+Challenges like data scarcity, computational demands, and model interpretability are discussed. ML/AI methods require large, labeled datasets, which may not always be available.
 
-Further research aims at developing more robust ML models, real-time mitigation techniques, and interdisciplinary collaborations for effective RFI management.
+### Hybrid Approaches
+
+Hybrid approaches that combine traditional and ML/AI techniques are considered for better results. These methods take advantage of both robust traditional techniques and the adaptability of ML.
+
+### Scalability and Real-Time Processing
+
+The potential for scalability and real-time processing using ML/AI methods is discussed, highlighting the importance of optimizing models for efficient deployment in operational telescopes.
 
 ## Conclusion
 
 The integration of ML and AI into RFI mitigation offers promising advances for radio astronomy. The improvements in RFI detection and suppression using these technologies show the potential for future exploration.
 
+## Future Work
 
-## Extended Outline
-
-The extended outline is available [here](extended_outline.md).
+Further research aims at developing more robust ML models, real-time mitigation techniques, and interdisciplinary collaborations for effective RFI management. Expanding open-access datasets and creating standardized benchmarks are also priorities.
 
 ## Installation
-
-To set up the environment for reproducing this analysis:
 
 ### Prerequisites
 
@@ -146,13 +160,19 @@ To run the Jupyter Notebook for detailed analysis:
 jupyter notebook notebooks/RFI_Mitigation_Analysis.ipynb
 ```
 
-## Contributing
+## Project Structure
 
-Contributions are welcome! Please read the contributing guidelines to get started.
+- **notebooks/**: Contains Jupyter notebooks for analysis.
+- **data/**: Placeholder for datasets used in the project.
+- **scripts/**: Scripts for data preprocessing and model training.
+- **reports/**: Generated analysis reports and visualizations.
+
+
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
 
@@ -161,5 +181,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Adrita Khan**  
 [Email](mailto:adrita.khan.official@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adrita-khan) | [Twitter](https://x.com/Adrita_)
 
+## Extended Outline
 
-
+The extended outline is available [here](extended_outline.md).
