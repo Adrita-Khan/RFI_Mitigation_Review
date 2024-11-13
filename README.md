@@ -87,6 +87,9 @@ Traditional versus ML/AI-based methods are compared for effectiveness, scalabili
 - **Inclusion**: Focus on ML/AI for RFI, peer-reviewed, and published from 2014 to 2024.
 - **Exclusion**: Irrelevant topics, low-quality publications, and duplicates.
 
+![Flowchart](Assets/flowchart.png)
+
+
 ### Data Extraction and Analysis
 
 Data were extracted from selected papers and categorized by techniques, algorithms, evaluation metrics, and datasets. The analysis helped in comparing the effectiveness of different RFI mitigation strategies.
