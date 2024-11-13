@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)  
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/your-username/rfi-mitigation-radio-astronomy-ml-ai/ci.yml)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/your-username/rfi-mitigation-radio-astronomy-ml-ai/CI)
 
 ![RFI Title Graphic](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
 
@@ -12,44 +12,45 @@ Radio Frequency Interference (RFI) poses significant challenges to radio astrono
 
 ## Table of Contents
 
-- [Introduction](#introduction)  
-- [Background](#background)  
-  - [Radio Astronomy](#radio-astronomy)  
-  - [RFI Overview](#rfi-overview)  
-- [Literature Review](#literature-review)  
-  - [Traditional Mitigation Techniques](#traditional-mitigation-techniques)  
-  - [Machine Learning and AI Methods](#machine-learning-and-ai-methods)  
-  - [Comparative Analysis](#comparative-analysis)  
-- [Survey Methodology](#survey-methodology)  
-  - [Literature Search and Selection](#literature-search-and-selection)  
-    - [Search Sources](#search-sources)  
-    - [Search Strategy](#search-strategy)  
-  - [Inclusion and Exclusion Criteria](#inclusion-and-exclusion-criteria)  
-    - [Inclusion](#inclusion)  
-    - [Exclusion](#exclusion)  
-  - [Paper Collection and Management](#paper-collection-and-management)  
-  - [Data Extraction and Organization](#data-extraction-and-organization)  
-  - [Analysis Approach](#analysis-approach)  
-  - [Quality Assessment](#quality-assessment)  
-  - [Limitations](#limitations)  
-  - [Ethical Considerations](#ethical-considerations)  
-  - [Final Paper Selection](#final-paper-selection)  
-  - [Conclusion](#survey-methodology-conclusion)  
-- [Methodologies](#methodologies)  
-  - [Data Preprocessing](#data-preprocessing)  
-  - [Feature Engineering](#feature-engineering)  
-  - [Model Training](#model-training)  
-  - [Evaluation Metrics](#evaluation-metrics)  
-- [Results](#results)  
-  - [Performance Analysis](#performance-analysis)  
-  - [Case Studies](#case-studies)  
-- [Discussion](#discussion)  
-- [Conclusion](#conclusion)  
-- [Future Work](#future-work)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Contributing](#contributing)  
-- [License](#license)  
+![Table of Contents Image](https://images.theconversation.com/files/513004/original/file-20230301-22-mo36il.png?ixlib=rb-4.1.0&q=45&auto=format&w=754&h=286&fit=crop&dpr=1)
+
+- [Introduction](#introduction)
+- [Background](#background)
+  - [Radio Astronomy](#radio-astronomy)
+  - [RFI Overview](#rfi-overview)
+- [Literature Review](#literature-review)
+  - [Traditional Mitigation Techniques](#traditional-mitigation-techniques)
+  - [Machine Learning and AI Methods](#machine-learning-and-ai-methods)
+  - [Comparative Analysis](#comparative-analysis)
+- [Survey Methodology](#survey-methodology)
+  - [Literature Search and Selection](#literature-search-and-selection)
+    - [Search Sources](#search-sources)
+    - [Search Strategy](#search-strategy)
+  - [Inclusion and Exclusion Criteria](#inclusion-and-exclusion-criteria)
+    - [Inclusion](#inclusion)
+    - [Exclusion](#exclusion)
+  - [Paper Collection and Management](#paper-collection-and-management)
+  - [Data Extraction and Organization](#data-extraction-and-organization)
+  - [Analysis Approach](#analysis-approach)
+  - [Quality Assessment](#quality-assessment)
+  - [Limitations](#limitations)
+  - [Ethical Considerations](#ethical-considerations)
+  - [Conclusion](#survey-methodology-conclusion)
+- [Methodologies](#methodologies)
+  - [Data Preprocessing](#data-preprocessing)
+  - [Feature Engineering](#feature-engineering)
+  - [Model Training](#model-training)
+  - [Evaluation Metrics](#evaluation-metrics)
+- [Results](#results)
+  - [Performance Analysis](#performance-analysis)
+  - [Case Studies](#case-studies)
+- [Discussion](#discussion)
+- [Conclusion](#conclusion)
+- [Future Work](#future-work)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 - [Contact](#contact)
 
 ![PF800 Waterfall](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
@@ -92,7 +93,7 @@ We conducted a systematic review of Radio Frequency Interference (RFI) mitigatio
 
 #### Search Sources
 
-- **NASA/ADS:** Index of journal articles and conference papers in astronomy and physics.
+- **NASA/ADS:** Index of journal articles and conference papers in astronomy and physics.  
 - **Google Scholar:** Broad access to diverse academic articles.
 
 #### Search Strategy
@@ -144,10 +145,6 @@ Ensured reliability through reproducibility checks and expert consultations.
 
 - Proper citation of sources.  
 - Respect for data privacy and intellectual property.
-
-### Final Paper Selection
-
-Selected 32 papers addressing RFI mitigation with ML/AI, highlighting a gap in comprehensive reviews on this topic.
 
 ### Conclusion
 
@@ -208,8 +205,8 @@ To set up the environment for reproducing the analyses and experiments conducted
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/rfi-mitigation-radio-astronomy-ml-ai.git
-cd rfi-mitigation-radio-astronomy-ml-ai
+git clone https://github.com/Adrita-Khan/RFI_Mitigation_Review.git
+cd https://github.com/Adrita-Khan/RFI_Mitigation_Review
 ```
 
 ### Create a Virtual Environment
@@ -221,7 +218,7 @@ conda create -n rfi_env python=3.8
 conda activate rfi_env
 ```
 
-### Install Requirements
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -264,7 +261,7 @@ jupyter notebook notebooks/RFI_Mitigation_Analysis.ipynb
 
 For any inquiries or feedback, please contact:
 
-**Name**: Your Name  
-**Email**: your.email@example.com  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)  
-**Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+Name: Adrita Khan
+Email: [here](adrita.khan.official@gmail.com)  
+LinkedIn: [here](https://www.linkedin.com/in/adrita-khan)  
+Twitter: [@Adrita_](https://x.com/Adrita_)
