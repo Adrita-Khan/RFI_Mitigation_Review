@@ -2,7 +2,8 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)  
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Adrita-Khan/RFI_Mitigation_Review.yml)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Adrita-Khan/RFI_Mitigation_Review/rfi_mitigation_review.yml)
+
 
 ![RFI Title Graphic](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
 
