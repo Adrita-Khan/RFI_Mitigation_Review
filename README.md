@@ -130,7 +130,7 @@ Further research aims at developing more robust ML models, real-time mitigation 
 
 ## Extended Outline
 
-The extended outline is available [here](extended_outline.md).
+The extended outline is available [here](Extended_Outline.md).
 
 
 
