@@ -6,9 +6,11 @@
 
 ![RFI Title Graphic](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
 
-## Abstract
 
-Radio Frequency Interference (RFI) significantly hampers radio astronomy by contaminating observational data. Traditional mitigation methods are often inadequate due to increasing data complexity. This repository presents a detailed review of RFI mitigation strategies in radio astronomy, focusing on Machine Learning (ML) and Artificial Intelligence (AI). Through literature review, comparative analysis, and practical implementation, this work highlights how ML and AI can improve RFI mitigation processes.
+
+Radio Frequency Interference (RFI) significantly hampers radio astronomy by contaminating observational data. Traditional mitigation methods are often inadequate due to increasing data complexity. This repository presents a detailed review of RFI mitigation strategies in radio astronomy, focusing on Machine Learning (ML) and Artificial Intelligence (AI). Through literature review, comparative analysis, and practical implementation, this work highlights how ML and AI can improve RFI mitigation processes. 
+
+*This repository is designed to store the contents and showcase different aspects of our review on this subject.*
 
 ## Table of Contents
 
