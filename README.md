@@ -14,40 +14,7 @@ Radio Frequency Interference (RFI) significantly hampers radio astronomy by cont
 
 *This repository is designed to store the contents and showcase different aspects of our review on this subject.*
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Background](#background)
-  - [Radio Astronomy](#radio-astronomy)
-  - [RFI Overview](#rfi-overview)
-  - [Traditional Mitigation Techniques](#traditional-mitigation-techniques)
-  - [Machine Learning and AI Methods](#machine-learning-and-ai-methods)
-  - [Comparative Analysis](#comparative-analysis)
-- [Survey Methodology](#survey-methodology)
-  - [Literature Search and Selection](#literature-search-and-selection)
-  - [Inclusion and Exclusion Criteria](#inclusion-and-exclusion-criteria)
-  - [Data Extraction and Analysis](#data-extraction-and-analysis)
-- [Results](#results)
-  - [Performance Analysis](#performance-analysis)
-  - [Case Studies](#case-studies)
-- [Discussion](#discussion)
-  - [Challenges and Limitations](#challenges-and-limitations)
-  - [Hybrid Approaches](#hybrid-approaches)
-  - [Scalability and Real-Time Processing](#scalability-and-real-time-processing)
-- [Conclusion](#conclusion)
-- [Future Work](#future-work)
-- [Installation](#installation)
-  - [Prerequisites](#prerequisites)
-  - [Clone the Repository](#clone-the-repository)
-  - [Create a Virtual Environment](#create-a-virtual-environment)
-  - [Install Dependencies](#install-dependencies)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-- [Extended Outline](#extended-outline)
 
 ![PF800 Waterfall](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
 
