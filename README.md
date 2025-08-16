@@ -46,6 +46,8 @@ By integrating ML and AI approaches, this project seeks to establish **robust pi
 
 ---
 
+![RFI Radio Astronomy](https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1)
+
 ## References
 
 * [Interference from a Busy Planet - NRAO Public Blogs](https://public.nrao.edu/blogs/interference-from-a-busy-planet/)
