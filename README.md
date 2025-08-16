@@ -57,33 +57,7 @@ Data were extracted from selected papers and categorized by techniques, algorith
 
 ![RFI Radio Astronomy](https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1)
 
-## Results
 
-### Performance Analysis
-
-The analysis compares ML/AI-based methods to traditional ones, showing significant improvement in detection rates and reduced false positives. Performance metrics like accuracy, recall, precision, and F1 score were used.
-
-### Case Studies
-
-Real-world applications of ML/AI for RFI mitigation in radio astronomy projects are presented, showing their practical benefits.
-
-## Discussion
-
-### Challenges and Limitations
-
-Challenges like data scarcity, computational demands, and model interpretability are discussed. ML/AI methods require large, labeled datasets, which may not always be available.
-
-### Hybrid Approaches
-
-Hybrid approaches that combine traditional and ML/AI techniques are considered for better results. These methods take advantage of both robust traditional techniques and the adaptability of ML.
-
-### Scalability and Real-Time Processing
-
-The potential for scalability and real-time processing using ML/AI methods is discussed, highlighting the importance of optimizing models for efficient deployment in operational telescopes.
-
-## Conclusion
-
-The integration of ML and AI into RFI mitigation offers promising advances for radio astronomy. The improvements in RFI detection and suppression using these technologies show the potential for future exploration.
 
 ## Future Work
 
