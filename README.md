@@ -33,6 +33,8 @@ Radio astronomy is uniquely vulnerable to interference from terrestrial and sate
 
 By integrating ML and AI approaches, this project seeks to establish **robust pipelines for automated RFI identification and mitigation**, advancing the field beyond the limitations of traditional techniques.
 
+
+![Radio Interference](https://public.nrao.edu/wp-content/uploads/2019/05/radio-interference.jpg)
 ---
 
 ## Future Directions
