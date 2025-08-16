@@ -69,41 +69,6 @@ The extended outline is available [here](Extended_Outline.md).
 
 
 
-## Installation
-
-### Prerequisites
-
-- **Python** 3.8 or higher
-- **Git**: [Install Git](https://git-scm.com/)
-- **Conda** (optional): [Install Conda](https://docs.conda.io/en/latest/)
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/Adrita-Khan/RFI_Mitigation_Review.git
-cd RFI_Mitigation_Review
-```
-
-### Create a Virtual Environment
-
-```bash
-conda create -n rfi_env python=3.8
-conda activate rfi_env
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-To run the Jupyter Notebook for detailed analysis:
-
-```bash
-jupyter notebook notebooks/RFI_Mitigation_Analysis.ipynb
-```
 
 ## Project Structure
 
