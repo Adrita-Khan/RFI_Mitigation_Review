@@ -1,108 +1,124 @@
 # RFI Mitigation in Radio Astronomy Using Machine Learning and AI
 
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)  
+![License](https://img.shields.io/badge/license-MIT-blue.svg)  
+
+*This research project is currently in progress and undergoing continuous development.*
 
 ---
-*This project is ongoing and subject to continuous advancements and modifications.*
-----
 
-![RFI Title Graphic](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
+![RFI in Radio Astronomy](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
 
------
+## Research Overview
 
+This investigation focuses on developing **machine learning (ML)** and **artificial intelligence (AI)** methodologies for detecting and mitigating **radio frequency interference (RFI)** in radio astronomical data. RFI, predominantly originating from terrestrial sources including communication systems and broadcasting infrastructure, typically appears as strong narrowband signals, though broadband interference also occurs.
 
-## Project Overview
+A comprehensive review paper, inspired by [Ndung'u et al. (2023)](https://www.sciencedirect.com/science/article/pii/S1387647323000131), is being prepared for submission to *New Astronomy Reviews*. The study will include systematic benchmarking of established ML models on representative astronomical datasets.
 
-The objective of this project is to explore and develop **machine learning (ML)** and **artificial intelligence (AI)** techniques for the detection and removal of **radio frequency interference (RFI)** in raw data obtained from radio telescopes.  
-RFI, which generally originates from terrestrial sources such as communication systems and broadcasting services, often manifests as strong signals within certain frequency channels, though broadband RFI can also occur.  
+Future work will involve the design and implementation of novel ML architectures specifically optimized for RFI detection and mitigation in radio astronomy applications.
 
-A **review paper** inspired by [Ndung’u et al. (2023)](https://www.sciencedirect.com/science/article/pii/S1387647323000131) is currently being prepared and will be submitted to *New Astronomy Reviews*. This work may also include benchmarking of widely used ML models on representative datasets.  
+---
 
-Looking ahead, we intend to design and implement our **own ML model** for effective RFI detection and mitigation.
+## Research Context
 
------
+Radio Frequency Interference presents significant challenges for modern radio astronomy by corrupting observational data. Conventional mitigation approaches often prove insufficient given the increasing complexity of interference patterns. This repository documents:
 
+1. A systematic review of RFI mitigation strategies
+2. Comparative analysis of traditional versus ML/AI approaches
+3. Practical implementations of machine learning solutions
 
-Radio Frequency Interference (RFI) significantly hampers radio astronomy by contaminating observational data. Traditional mitigation methods are often inadequate due to increasing data complexity. This repository presents a detailed review of RFI mitigation strategies in radio astronomy, focusing on Machine Learning (ML) and Artificial Intelligence (AI). Through literature review, comparative analysis, and practical implementation, this work highlights how ML and AI can improve RFI mitigation processes. 
+*This repository serves as both a knowledge base and demonstration platform for our ongoing research.*
 
-*This repository is designed to store the contents and showcase different aspects of our review on this subject.*
+![RFI Waterfall Plot](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
 
+## Research Significance
 
+The proliferation of electronic devices has exacerbated RFI challenges in radio astronomy. Astronomical observations, which detect faint cosmic radio emissions, are particularly vulnerable to interference from both terrestrial and satellite-based sources. While traditional methods like spectral filtering and shielding provide partial solutions, they struggle with:
 
-![PF800 Waterfall](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
+- Dynamic interference patterns
+- High-dimensional data streams
+- Real-time processing requirements
 
-Radio Frequency Interference (RFI) disrupts radio telescopes and has become a growing challenge as electronic activity increases. Radio astronomy, which explores celestial objects through radio emissions, is highly sensitive to RFI from terrestrial and extraterrestrial sources, often leading to corrupted data and false detections. Traditional mitigation techniques, such as shielding, filtering, and time-frequency analysis, help but struggle to keep pace with the evolving RFI environment. Recent advances in Machine Learning (ML) and Artificial Intelligence (AI) offer more adaptable solutions, using large datasets and computational power to improve accuracy. Compared to traditional methods, ML and AI show clear advantages in effectiveness, scalability, and handling complex, high-dimensional data.
+Machine learning approaches offer distinct advantages through:
+- Adaptive learning capabilities
+- Scalability to large datasets
+- Improved detection accuracy in complex scenarios
 
+![Radio Telescope Interference](https://public.nrao.edu/wp-content/uploads/2019/05/radio-interference.jpg)
 
-![Radio Interference](https://public.nrao.edu/wp-content/uploads/2019/05/radio-interference.jpg)
+## Methodology
 
-## Survey Methodology
+### Literature Review Process
 
-### Literature Search and Selection
+We conducted comprehensive searches using:
+- **NASA/ADS Astrophysics Data System**
+- **Google Scholar**
 
-- **NASA/ADS** and **Google Scholar** were used to search for papers related to RFI, ML, AI, and neural networks.
-- **Initial results**: NASA/ADS yielded 81 papers, and Google Scholar provided 1,337 unique papers after filtering.
+Search parameters focused on:
+- RFI mitigation techniques
+- Machine learning applications
+- Neural network architectures
 
-### Inclusion and Exclusion Criteria
+Initial results yielded:
+- 81 relevant papers from NASA/ADS
+- 1,337 unique publications from Google Scholar (after deduplication)
 
-- **Inclusion**: Focus on ML/AI for RFI, peer-reviewed, and published from 2014 to 2024.
-- **Exclusion**: Irrelevant topics, low-quality publications, and duplicates.
+### Selection Criteria
 
-![Flowchart](Assets/flowchart.png)
+**Inclusion Criteria:**
+- Primary focus on ML/AI for RFI mitigation
+- Peer-reviewed publications
+- Published between 2014-2024
 
+**Exclusion Criteria:**
+- Irrelevant subject matter
+- Non-peer reviewed works
+- Duplicate publications
 
-### Data Extraction and Analysis
+![Research Methodology Flowchart](Assets/flowchart.png)
 
-Data were extracted from selected papers and categorized by techniques, algorithms, evaluation metrics, and datasets. The analysis helped in comparing the effectiveness of different RFI mitigation strategies.
+### Data Analysis Framework
 
-![RFI Radio Astronomy](https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1)
+Extracted data was categorized by:
+- Mitigation techniques
+- Algorithm implementations
+- Performance metrics
+- Dataset characteristics
 
+This structured analysis enabled comparative evaluation of different RFI mitigation approaches.
 
+![Modern RFI Challenges](https://i0.wp.com/spacenews.com/wp-content/uploads/2023/07/rfi-radioastronomy.jpg?w=1600&ssl=1)
 
-## Future Work
+## Research Directions
 
-Further research aims at developing more robust ML models, real-time mitigation techniques, and interdisciplinary collaborations for effective RFI management. Expanding open-access datasets and creating standardized benchmarks are also priorities.
+Future investigations will prioritize:
+1. Development of robust ML architectures
+2. Real-time mitigation algorithms
+3. Interdisciplinary collaborations
+4. Creation of standardized benchmarks
+5. Expansion of open-access datasets
 
-## Extended Outline
+## Project Organization
 
-The extended outline is available [here](Extended_Outline.md).
+The repository maintains the following structure:
 
-
-
-
-## Project Structure
-
-- **notebooks/**: Contains Jupyter notebooks for analysis.
-- **data/**: Placeholder for datasets used in the project.
-- **scripts/**: Scripts for data preprocessing and model training.
-- **reports/**: Generated analysis reports and visualizations.
-- **assets/**: Images, logos, and other visual resources used in the project.
-- **diagrams/**: Project-related diagrams to illustrate concepts and processes.
-- **preprints/**: Preprint versions of research papers.
-- **presentations/**: Presentation slides for project communication.
-- **research_papers/**: A collection of related research papers.
-- **tables/**: Data tables used in the analysis.
-- **journals_conferences/**: List of journals and conferences related to the research.
-
-```bash
-├── assets/
-│   ├── images/          # Images, logos, and other visual resources
-│   └── diagrams/        # Project-related diagrams illustrating concepts and processes
-├── data/                # Datasets used in the project
-├── notebooks/           # Jupyter notebooks for analysis and experimentation
-├── scripts/             # Scripts for data preprocessing, model training, and utilities
-├── reports/
-│   ├── analysis/        # In-depth analysis reports and visualizations
-│   ├── appendices/      # Supporting documents and detailed data or methods
-│   │   ├── Appendix_A/
-│   │   ├── Appendix_B/
-│   │   └── Appendix_C/
-│   └── references/      # Reference documents and sources cited in the project
-├── preprints/           # Preprint versions of research papers
-├── presentations/       # Presentation slides for project communication
-├── research_papers/     # Collection of related research papers
-├── tables/              # Data tables used in the analysis
-└── journals_conferences/ # List of journals and conferences related to the research
+```
+project_root/
+├── assets/               # Visual resources
+│   ├── images/           # Figures and diagrams
+│   └── diagrams/         # Conceptual schematics
+├── data/                 # Research datasets
+├── notebooks/            # Analytical notebooks
+├── scripts/              # Processing scripts
+├── reports/              # Research outputs
+│   ├── analysis/         # Detailed analyses
+│   ├── appendices/       # Supplementary materials
+│   └── references/       # Citation management
+├── preprints/            # Manuscript drafts
+├── presentations/        # Conference materials
+├── research_papers/      # Relevant literature
+├── tables/               # Data tables
+└── journals_conferences/ # Publication venues
 ```
 
 ## References
