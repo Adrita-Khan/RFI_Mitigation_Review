@@ -51,31 +51,8 @@ Radio Frequency Interference (RFI) significantly hampers radio astronomy by cont
 
 ![PF800 Waterfall](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
 
-## Introduction
+Radio Frequency Interference (RFI) disrupts radio telescopes and has become a growing challenge as electronic activity increases. Radio astronomy, which explores celestial objects through radio emissions, is highly sensitive to RFI from terrestrial and extraterrestrial sources, often leading to corrupted data and false detections. Traditional mitigation techniques, such as shielding, filtering, and time-frequency analysis, help but struggle to keep pace with the evolving RFI environment. Recent advances in Machine Learning (ML) and Artificial Intelligence (AI) offer more adaptable solutions, using large datasets and computational power to improve accuracy. Compared to traditional methods, ML and AI show clear advantages in effectiveness, scalability, and handling complex, high-dimensional data.
 
-Radio Frequency Interference (RFI) is an unwanted signal that disrupts radio telescopes. As radio astronomy advances, increased electronic activity exacerbates the RFI problem, requiring sophisticated mitigation. This review explores the integration of Machine Learning (ML) and Artificial Intelligence (AI) to assess RFI mitigation effectiveness.
-
-## Background
-
-### Radio Astronomy
-
-Radio astronomy studies celestial objects through radio emissions, providing insights into pulsars, quasars, and cosmic microwave background radiation. Unfortunately, its sensitivity makes radio astronomy prone to RFI, compromising data integrity.
-
-### RFI Overview
-
-RFI originates from terrestrial (e.g., satellites, mobile phones) and extraterrestrial sources. It leads to data corruption and false detections, thus affecting the quality of scientific results.
-
-### Traditional Mitigation Techniques
-
-Traditional RFI mitigation includes hardware solutions (shielding, filtering) and software methods (thresholding, time-frequency analysis). These approaches often struggle to adapt to an evolving RFI landscape.
-
-### Machine Learning and AI Methods
-
-Recent advancements in ML/AI—such as supervised learning, unsupervised learning, and deep learning—offer new approaches for identifying and mitigating RFI. These methods leverage large datasets and computational power for enhanced accuracy.
-
-### Comparative Analysis
-
-Traditional versus ML/AI-based methods are compared for effectiveness, scalability, and adaptability. ML/AI has notable advantages in handling complex, high-dimensional data.
 
 ![Radio Interference](https://public.nrao.edu/wp-content/uploads/2019/05/radio-interference.jpg)
 
