@@ -8,6 +8,19 @@
 
 ![RFI Title Graphic](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
 
+-----
+
+
+## Project Overview
+
+The objective of this project is to explore and develop **machine learning (ML)** and **artificial intelligence (AI)** techniques for the detection and removal of **radio frequency interference (RFI)** in raw data obtained from radio telescopes.  
+RFI, which generally originates from terrestrial sources such as communication systems and broadcasting services, often manifests as strong signals within certain frequency channels, though broadband RFI can also occur.  
+
+A **review paper** inspired by [Ndung’u et al. (2023)](https://www.sciencedirect.com/science/article/pii/S1387647323000131) is currently being prepared and will be submitted to *New Astronomy Reviews*. This work may also include benchmarking of widely used ML models on representative datasets.  
+
+Looking ahead, we intend to design and implement our **own ML model** for effective RFI detection and mitigation.
+
+-----
 
 
 Radio Frequency Interference (RFI) significantly hampers radio astronomy by contaminating observational data. Traditional mitigation methods are often inadequate due to increasing data complexity. This repository presents a detailed review of RFI mitigation strategies in radio astronomy, focusing on Machine Learning (ML) and Artificial Intelligence (AI). Through literature review, comparative analysis, and practical implementation, this work highlights how ML and AI can improve RFI mitigation processes. 
