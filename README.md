@@ -15,7 +15,8 @@
 
 ## Project Overview
 
-This project investigates the application of **machine learning (ML)** and **artificial intelligence (AI)** for the detection and suppression of **radio frequency interference (RFI)** in radio astronomical observations.  It is an **ongoing project** of the **Center for Astronomy, Space Science and Astrophysics (CASSA)** ([https://cassa.site/entry/p2024002/](https://cassa.site/entry/p2024002/)), carried out in collaboration with the **Center for Computational and Data Sciences (CCDS)** ([https://ccds.ai/](https://ccds.ai/)) and the **School of Physics, Universiti Sains Malaysia** ([https://fizik.usm.my/](https://fizik.usm.my/)).
+This project investigates the application of **machine learning (ML)** and **artificial intelligence (AI)** for the detection and suppression of **radio frequency interference (RFI)** in radio astronomical observations.  It is an **ongoing project** of the *[Center for Astronomy, Space Science and Astrophysics (CASSA)](https://cassa.site/entry/p2024002/)*, carried out in collaboration with the *[Center for Computational and Data Sciences (CCDS)](https://ccds.ai/)* and the *[School of Physics, Universiti Sains Malaysia](https://fizik.usm.my/)*.
+
 
 
 
