@@ -8,19 +8,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Institutional Collaboration](#institutional-collaboration)
-- [Motivation](#motivation)
-- [Current Work](#current-work)
-- [Future Directions](#future-directions)
-- [References](#references)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Overview
 
 This project investigates the application of **machine learning (ML)** and **artificial intelligence (AI)** for the detection and suppression of **radio frequency interference (RFI)** in radio astronomical observations.
@@ -119,6 +106,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 | Platform | Link |
 |----------|------|
-| Email | [adrita.khan.official@gmail.com](mailto:adrita.khan.official@gmail.com) |
+| Email | [Email](mailto:adrita.khan.official@gmail.com) |
 | LinkedIn | [linkedin.com/in/adrita-khan](https://www.linkedin.com/in/adrita-khan) |
 | Twitter | [@Adrita_](https://x.com/Adrita_) |
