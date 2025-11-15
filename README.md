@@ -107,5 +107,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 | Platform | Link |
 |----------|------|
 | Email | [Email](mailto:adrita.khan.official@gmail.com) |
-| LinkedIn | [linkedin.com/in/adrita-khan](https://www.linkedin.com/in/adrita-khan) |
+| LinkedIn | [adrita-khan](https://www.linkedin.com/in/adrita-khan) |
 | Twitter | [@Adrita_](https://x.com/Adrita_) |
