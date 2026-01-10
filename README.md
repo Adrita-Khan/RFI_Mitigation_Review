@@ -2,11 +2,17 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=ff8c00&center=true&vCenter=true&repeat=true&width=820&lines=RFI+Mitigation+%7C+Radio+Astronomy;Machine+Learning+for+Signal+Processing;Radio+Frequency+Interference+Detection;Adaptive+%26+Scalable+Algorithms;Time-Frequency+Analysis;Satellite+Constellation+Interference;Automated+RFI+Identification;Deep+Learning+for+Astronomy;Signal+Corruption+Suppression;Real-Time+Detection+Pipelines;Spectral+Waterfall+Analysis;Terrestrial+%26+Satellite+RFI;ML-Based+Data+Quality+Enhancement;Robust+Mitigation+Frameworks;High-Precision+Classification;Radio+Telescope+Data+Integrity" alt="Typing SVG" />
+</p>
+
 > **Status:** This repository is under active development and subject to continuous updates.
 
 ![RFI Title Graphic](https://legacy.nrao.edu/epo/aoc/puente/rfi/rfititlegrafic.jpg)
 
 ---
+
+
 
 ## Overview
 
