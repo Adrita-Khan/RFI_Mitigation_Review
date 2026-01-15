@@ -39,7 +39,8 @@ Recent progress in ML shows strong promise for **adaptive, scalable, and high-pr
 
 ## Motivation
 
-Radio astronomy is uniquely vulnerable to interference from terrestrial and satellite-based transmissions. The rapid growth of satellite constellations and global communication infrastructure has intensified the challenge, leading to corrupted data and false detections.
+Radio astronomy is particularly vulnerable to interference from terrestrial and satellite-based transmissions. The rapid expansion of satellite constellations and global communication networks has made this challenge more severe, often resulting in corrupted data and false detections.
+
 
 ### Key Challenges
 
