@@ -20,7 +20,7 @@ This project investigates the application of **machine learning (ML)** for the d
 
 RFI, predominantly arising from terrestrial communication systems and broadcasting services, poses a significant obstacle to data integrity in radio astronomy. While traditional mitigation approaches (e.g., filtering, shielding, and time-frequency analysis) have been employed, they are increasingly insufficient in addressing the complexity and scale of modern datasets.
 
-Recent advances in ML and AI demonstrate strong potential for **adaptive, scalable, and high-precision RFI mitigation**. Leveraging large datasets and advanced algorithms, these methods can significantly enhance data quality and reliability in radio astronomy.
+Recent advances in ML demonstrate strong potential for **adaptive, scalable, and high-precision RFI mitigation**. Leveraging large datasets and advanced algorithms, these methods can significantly enhance data quality and reliability in radio astronomy.
 
 ![PF800 Waterfall](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
 
