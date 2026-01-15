@@ -16,11 +16,12 @@
 
 ## Overview
 
-This project investigates the application of **machine learning (ML)** for the detection and suppression of **radio frequency interference (RFI)** in radio astronomical observations.
+This project explores the use of **machine learning (ML)** to detect and suppress **radio frequency interference (RFI)** in radio astronomical observations.
 
-RFI, predominantly arising from terrestrial communication systems and broadcasting services, poses a significant obstacle to data integrity in radio astronomy. While traditional mitigation approaches (e.g., filtering, shielding, and time-frequency analysis) have been employed, they are increasingly insufficient in addressing the complexity and scale of modern datasets.
+RFI, mainly originating from terrestrial communication systems and broadcasting services, is a major challenge to maintaining data quality in radio astronomy. Although traditional mitigation techniques such as filtering, shielding, and time and frequency analysis are widely used, they are becoming less effective as datasets grow in size and complexity.
 
-Recent advances in ML demonstrate strong potential for **adaptive, scalable, and high-precision RFI mitigation**. Leveraging large datasets and advanced algorithms, these methods can significantly enhance data quality and reliability in radio astronomy.
+Recent progress in ML shows strong promise for **adaptive, scalable, and high-precision RFI mitigation**. By learning from large datasets and applying advanced algorithms, these methods can substantially improve the quality and reliability of radio astronomical data.
+
 
 ![PF800 Waterfall](https://info.nrao.edu/do/spectrum-management/PF800_waterfall.png.webp)
 
