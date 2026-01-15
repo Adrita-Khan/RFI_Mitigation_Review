@@ -16,7 +16,7 @@
 
 ## Overview
 
-This project investigates the application of **machine learning (ML)** and **artificial intelligence (AI)** for the detection and suppression of **radio frequency interference (RFI)** in radio astronomical observations.
+This project investigates the application of **machine learning (ML)** for the detection and suppression of **radio frequency interference (RFI)** in radio astronomical observations.
 
 RFI, predominantly arising from terrestrial communication systems and broadcasting services, poses a significant obstacle to data integrity in radio astronomy. While traditional mitigation approaches (e.g., filtering, shielding, and time-frequency analysis) have been employed, they are increasingly insufficient in addressing the complexity and scale of modern datasets.
 
